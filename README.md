@@ -1,18 +1,17 @@
 # Algorithms Column
 
-> 2020 年度目标
-> 算法专栏
+> 算法专栏 <2020 年度目标>
 
-## Sorting
+## Sorting | 排序
 
-## Searching
+## Searching | 查找
 
-## Linear List
+## Linear List | 线性表
 
-## Tree
+## Tree | 树
 
-## Graph
+## Graph | 图
 
-## String
+## String | 字符串
 
-## Others
+## Others | 其它
