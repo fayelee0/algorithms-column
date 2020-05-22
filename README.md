@@ -2,6 +2,19 @@
 
 > 算法专栏 <2020 年度目标>
 
+##  Linear Table | 线性表
+
+[数组](./linear_array.md)
+
+[链表](./linear_list.md)
+
+[栈](./linear_stack.md)
+
+[队列](./linear_queue.md)
+
+[堆](./linear_heap.md)
+
+
 ## Sorting | 排序
 
 ## Searching | 查找
